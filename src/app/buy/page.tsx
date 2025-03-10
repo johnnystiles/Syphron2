@@ -73,7 +73,7 @@ export default function BuyToken() {
               
               <div>
                 <div className="flex justify-between items-center mb-1">
-                  <label className="text-sm text-zinc-400">You'll Receive</label>
+                  <label className="text-sm text-zinc-400">You&apos;ll Receive</label>
                   <div className="text-sm text-zinc-400">Balance: 0 $SYPH</div>
                 </div>
                 
